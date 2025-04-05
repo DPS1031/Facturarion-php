@@ -26,7 +26,7 @@ This is a simple **Billing System** developed in **PHP** following the **Model-V
 3. Start **Apache** and **MySQL** from XAMPP.
 4. Import the SQL file into your database (e.g., `facturacion_db`).
 5. Update `Config/conexion.php` with your DB credentials.
-6. Access the system via [http://localhost(WebServerPort)/ProyectoFacturacion/Vista
+6. Access the system via http://localhost(WebServerPort)/ProyectoFacturacion/Vista
 
 ## Notes
 
